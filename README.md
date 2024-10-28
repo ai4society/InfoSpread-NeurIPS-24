@@ -1,7 +1,7 @@
 # NeurIPS-Submission-2024
 ## Overview
 
-This repository contains the code and data for the paper submitted to NeurIPS 2024 titled "Towards Effective Planning Strategies for Dynamic Opinion Networks" The repository is structured into two main folders: `code` and `data`.
+This repository contains the code and datassets for the paper submitted to NeurIPS 2024 titled "Towards Effective Planning Strategies for Dynamic Opinion Networks". The repository is structured into two main folders: `code` and `data`.
 
 
 ## Folders Description
